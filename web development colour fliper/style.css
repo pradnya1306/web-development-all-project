@@ -1,0 +1,16 @@
+#input1{
+    height: 40px;
+    width:200px;
+    font-size: 20px;
+    
+}
+.btn{
+    height:50px;
+    width:200px;
+    margin: auto;
+}
+#container1{
+    background-color: black;
+    width: 100px;
+    height:200px;
+}
